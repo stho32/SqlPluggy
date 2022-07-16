@@ -37,7 +37,7 @@
          must be a menu. -->
     <Groups>
       <Group guid="guidCommand1PackageCmdSet" id="MyMenuGroup" priority="0x0600">
-		  <Parent guid="VSMainMenu" id="ItemNode"/>
+		  <Parent guid="guidSHLMainMenu" id="IDM_VS_MENU_TOOLS"/>
 
 		  <!--<Parent guid="guidSHLMainMenu" id="IDM_VS_MENU_TOOLS"/>-->
       </Group>
